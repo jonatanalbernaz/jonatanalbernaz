@@ -13,6 +13,8 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanalbernaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <b>### SOCIAL LINKS</b>
 <hr />
 <a href="mailto:jonatan.albernaz@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"></a>
